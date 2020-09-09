@@ -52,9 +52,6 @@ public class RobotInstructions  {
 		robot.forward(152);
 		robot.turnRight(90);
 		robot.forward(180);
-		
-		
-		
 	}
 
 }
